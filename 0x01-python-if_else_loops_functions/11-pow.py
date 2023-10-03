@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# 11-pow.py
 
-def add(a, b):
+def pow(a, b):
     return a ** b
 
