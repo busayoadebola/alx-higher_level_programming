@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import add_0.py
 from add_0 import add
 
 a = 1
