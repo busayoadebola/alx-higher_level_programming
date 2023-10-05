@@ -14,4 +14,4 @@ else:
         print("{} arguments:".format(num_arguments))
 
     for i, arg in enumerate(argv, start=1):
-        print("{}: {}".format(i + 1, arg))
+        print("{}: {}".format(i, arg))
